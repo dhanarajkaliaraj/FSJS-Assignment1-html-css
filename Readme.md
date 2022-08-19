@@ -5,6 +5,6 @@
     - Image handling.
 ### :hourglass_flowing_sand: Time taken to complete!
     - 4 hours
-### :computer: [Assignment-1 live link](https://dhanaraj-assignment1.netlify.app)
+### :computer: [Assignment-1 link](https://dhanaraj-assignment1.netlify.app)
  
 <div align="right">:name_badge: Dhanaraj Kaliaraj</div>
